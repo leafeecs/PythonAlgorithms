@@ -27,4 +27,5 @@
 * [3. 재귀 알고리즘의 효율](3..md)
 * [4. 재귀 알고리즘 추가 예제](4.-1.md)
 * [5. Summary](5.-summary-1.md)
+* [6. Implementation](6.-implementation-1.md)
 
