@@ -34,4 +34,7 @@
 * [1. 조합의 수 계산](5.-recursive-algorithms/1..md)
 * [2. 재귀 알고리즘의 유용성](5.-recursive-algorithms/2..md)
 * [3. 재귀 알고리즘의 효율성](3.-1.md)
+* [4. 연습 문제](4.-2.md)
+* [5. Summary](5.-summary-2.md)
+* [6. Implementaion](6.-implementaion.md)
 
