@@ -20,7 +20,7 @@
 * [5. Summary](5.-summary.md)
 * [6. Implementation](6.-implementation.md)
 
-## 4. 재귀 알고리즘\(Recursive Algorithms\)
+## 4. 재귀 알고리즘\(Recursive Algorithms\) 기초
 
 * [1. 이진 트리\(Binary Trees\)](4.-recursive-algorithms/1.-binary-trees.md)
 * [2. 자연수의 합 구하기\(재귀적으로\)](2..md)
@@ -28,4 +28,10 @@
 * [4. 재귀 알고리즘 추가 예제](4.-1.md)
 * [5. Summary](5.-summary-1.md)
 * [6. Implementation](6.-implementation-1.md)
+
+## 5. 재귀 알고리즘\(Recursive Algorithms\) 응용
+
+* [1. 조합의 수 계산](5.-recursive-algorithms/1..md)
+* [2. 재귀 알고리즘의 유용성](5.-recursive-algorithms/2..md)
+* [3. 재귀 알고리즘의 효율성](3.-1.md)
 
