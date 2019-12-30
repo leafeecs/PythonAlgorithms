@@ -9,6 +9,7 @@
 * [3. 리스트에서 원소 삽입하기, 삭제하기](2.-linear-array/3..md)
 * [4. 리스트에서 원소 탐색하기](2.-linear-array/4..md)
 * [5. Summary](2.-linear-array/5.-summary.md)
+* [6. Implementation](2.-linear-array/6.-implementation.md)
 
 ## 3. 정렬\(Sort\), 탐색\(Search\)
 
