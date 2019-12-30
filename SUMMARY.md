@@ -10,4 +10,6 @@
 
 * [1. 배열: 정렬과 탐색\(Sorting & Searching\)](3.-sort-search/1.-sorting-and-searching.md)
 * [2. 선형 탐색\(Linear Search\)](2.-linear-search.md)
+* [3. 이진 탐색\(Binary Search\)](3.-binary-search.md)
+* [4. 선형 탐색과 이진 탐색의 성능 비교](4..md)
 
