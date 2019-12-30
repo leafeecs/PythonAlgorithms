@@ -17,6 +17,8 @@
 * [2. 선형 탐색\(Linear Search\)](2.-linear-search.md)
 * [3. 이진 탐색\(Binary Search\)](3.-binary-search.md)
 * [4. 선형 탐색과 이진 탐색의 성능 비교](4..md)
+* [5. Summary](5.-summary.md)
+* [6. Implementation](6.-implementation.md)
 
 ## 4. 재귀 알고리즘\(Recursive Algorithms\)
 
