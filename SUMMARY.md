@@ -56,6 +56,10 @@
 * [6. Summary](6.-summary.md)
 * [7. Implementation](7.-implementation.md)
 
+## 8. 연결 리스트\(Linked Lists\) \(2\)
+
+* [Untitled](8.-linked-lists-2/untitled.md)
+
 ## 11. 스택\(Stacks\)
 
 * [1. 스택\(Stack\)의 개념](11.-stacks/1.-stack.md)
