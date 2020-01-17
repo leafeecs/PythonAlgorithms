@@ -62,10 +62,22 @@
 * [2. 원소 삽입 \(코드 구현\)](8.-linked-lists-2/2..md)
 * [3. 원소 삽입 \(복잡도\)](8.-linked-lists-2/3..md)
 * [4. 원소 삭제](8.-linked-lists-2/4..md)
-* [5. 원소 삭제 \(코드 구현\)](8.-linked-lists-2/5..md)
+* [5. 원소 삭제 \(코드 구현\) \(못함\)](8.-linked-lists-2/5..md)
 * [6. 원소 삭제 복잡도](8.-linked-lists-2/6..md)
 * [7. 두 리스트의 연결](8.-linked-lists-2/7..md)
 * [8. Summary](8.-linked-lists-2/8.-summary.md)
+
+## 9. 연결 리스트\(Linked Lists\) \(3\)
+
+* [1. 연결리스트가 힘을 발휘할 때](9.-linked-lists-3/1..md)
+* [2. 조금 변형된 연결 리스트](9.-linked-lists-3/2..md)
+* [3. 리스트 순회](9.-linked-lists-3/3..md)
+* [4. k 번째 원소 얻어내기](9.-linked-lists-3/4.-k.md)
+* [5. 원소의 삽입](9.-linked-lists-3/5..md)
+* [6. 원소의 삭제](9.-linked-lists-3/6..md)
+* [7. 두 리스트의 연결](9.-linked-lists-3/7..md)
+* [7. Summary](9.-linked-lists-3/7.-summary.md)
+* [9. Implementation](9.-linked-lists-3/9.-implementation.md)
 
 ## 11. 스택\(Stacks\)
 
