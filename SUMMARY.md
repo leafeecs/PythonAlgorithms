@@ -58,7 +58,8 @@
 
 ## 8. 연결 리스트\(Linked Lists\) \(2\)
 
-* [Untitled](8.-linked-lists-2/untitled.md)
+* [1. 원소 삽입](8.-linked-lists-2/untitled.md)
+* [2. 원소 삽입 \(코드 구현\)](8.-linked-lists-2/2..md)
 
 ## 11. 스택\(Stacks\)
 
